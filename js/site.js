@@ -15,7 +15,7 @@ function getValues(){
         //we call displayNumbers
         displayNumbers(numbers);
     } else {
-        alert("You must enter intergers");
+        alert("You must enter integers");
     }
 
 
